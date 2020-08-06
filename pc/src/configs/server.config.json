@@ -1,0 +1,6 @@
+{
+  "baseUrl": "119.23.73.70",
+  "port": 80,
+  "protocol": "http",
+  "mode": "dev"
+}

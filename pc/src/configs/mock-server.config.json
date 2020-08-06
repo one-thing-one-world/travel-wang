@@ -1,0 +1,8 @@
+{
+    "baseUrl": "rap2.taobao.org",
+    "port": 38080,
+    "protocol": "http",
+    "mode": "mock"
+  }
+ 
+  
